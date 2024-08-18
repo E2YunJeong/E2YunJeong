@@ -5,7 +5,7 @@
 습득 속도가 느리지만, 열심히 하려고 노력 중!<br>
 <br>
 2022.08 ~ 2023.05 서경대학교 PIN LAB
-<br>
+<br><br>
 
 <h2>📕 Stack</h2>
 <div style="display:flex; flex-direction:row;">
@@ -46,11 +46,12 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</div><br><br>
+</div><br>
 
 <h2>☁️ About GitHub</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E2YunJeong&layout=compact&theme=neon"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E2YunJeong&layout=compact&theme=neon">
 <img src="https://github-readme-stats.vercel.app/api?username=E2YunJeong&show_icons=true&theme=neon">
+<br>
 
 <h2>🤍 Baekjoon</h2>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdbs3440">
