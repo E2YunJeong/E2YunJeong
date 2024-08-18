@@ -5,10 +5,11 @@
 
 ##😄 Introduce 😄
 <div style="display:flex; flex-direction:row;">
-코딩하는 대학생입니다👋
-
+코딩하는 대학생입니다👋<br>
+습득 속도가 느리지만, 열심히 하려고 노력 중!<br>
+<br>
 2022.08 ~ 2023.05 서경대학교 PIN LAB
-</div><br><br>
+</div><br>
 
 ##📕 Stack 📕
 <div style="display:flex; flex-direction:row;">
