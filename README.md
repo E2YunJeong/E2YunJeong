@@ -53,4 +53,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=E2YunJeong&show_icons=true&theme=neon">
 
 <h2>🤍 Baekjoon</h2>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdbs3440)](https://solved.ac/dbsdbs3440)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdbs3440">
