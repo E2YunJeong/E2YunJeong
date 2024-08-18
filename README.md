@@ -1,20 +1,15 @@
-<p align = "center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=E2YunJeong's%20GitHub!&fontSize=60&color=0:00EAD3,100:C9F999&fontColor=E63D90"/>
-</p>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=E2YunJeong's%20GitHub!&fontSize=60&color=0:00EAD3,100:C9F999&fontColor=E63D90"/>
 
-<h2>😄 Introduce 😄<h2/>
-<div style="display:flex; flex-direction:row;">
+<h2>😄 Introduce</h2>
 코딩하는 대학생입니다👋<br>
 습득 속도가 느리지만, 열심히 하려고 노력 중!<br>
 <br>
 2022.08 ~ 2023.05 서경대학교 PIN LAB
-</div><br>
+<br>
 
-<h2>📕 Stack 📕<h2/>
+<h2>📕 Stack</h2>
 <div style="display:flex; flex-direction:row;">
-<h4>✨ Skills<h4/>
-  <br>
+<h4>✨ Skills</h4>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -31,7 +26,7 @@
   <br>
   <details>
     <summary>
-      ✌️ I've used it! ✌️
+      ✌️ I've used it!
     </summary>
       <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -47,10 +42,15 @@
       <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
       <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
   </details>
-<br>
-<h4>✨ Communication<h4/>
-<br>
+<h4>✨ Communication</h4>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div><br><br>
+
+<h2>☁️ About GitHub</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E2YunJeong&layout=compact&theme=neon"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=E2YunJeong&show_icons=true&theme=neon">
+
+<h2>🤍 Baekjoon</h2>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdbs3440)](https://solved.ac/dbsdbs3440)
