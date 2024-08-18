@@ -3,7 +3,7 @@
 </p>
 <br>
 
-##😄 Introduce 😄
+<h2>😄 Introduce 😄<h2/>
 <div style="display:flex; flex-direction:row;">
 코딩하는 대학생입니다👋<br>
 습득 속도가 느리지만, 열심히 하려고 노력 중!<br>
@@ -11,9 +11,9 @@
 2022.08 ~ 2023.05 서경대학교 PIN LAB
 </div><br>
 
-##📕 Stack 📕
+<h2>📕 Stack 📕<h2/>
 <div style="display:flex; flex-direction:row;">
-####✨ Skills
+<h4>✨ Skills<h4/>
   <br>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
   </details>
 <br>
-####✨ Communication
+<h4>✨ Communication<h4/>
 <br>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
