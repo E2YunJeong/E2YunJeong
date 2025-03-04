@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=E2YunJeong's%20GitHub!&fontSize=60&color=0:00EAD3,100:C9F999&fontColor=E63D90"/>
 
 <h2>😄 Introduce</h2>
-코딩하는 대학생입니다👋<br>
-습득 속도가 느리지만, 열심히 하려고 노력 중!<br>
+전자공학과 학부생입니다👋<br>
+오늘도 화이팅!<br>
 <br>
 
 - 2022.08 ~ 2023.05 서경대학교 PIN LAB
 - 서경대학교 멋쟁이 사자처럼 12기 백엔드
-- 서경대학교 구름톤 1기 프론트엔드
+- 서경대학교 멋쟁이 사자처럼 13기 백엔드 운영진
+- 서경대학교 구름톤 3기 프론트엔드
 <br><br>
 
 <h2>📕 Stack</h2>
