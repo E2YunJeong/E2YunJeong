@@ -12,8 +12,8 @@
 - 서경대학교 구름톤 3기 프론트엔드
 - SW 동행사업 포천일고등학교 임베디드 멘토링
 - 서경대학교 멋쟁이 사자처럼 13기 백엔드 운영진
-
-<br><br>
+  
+<br>
 
 <h2>📕 Stack</h2>
 <div style="display:flex; flex-direction:row;">
